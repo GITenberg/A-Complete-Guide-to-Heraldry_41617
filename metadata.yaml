@@ -1,0 +1,34 @@
+_repo: A-Complete-Guide-to-Heraldry_41617
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Johnston, Graham
+    birthdate: 1869
+    gutenberg_agent_id: '41266'
+    url: http://www.gutenberg.org/2009/agents/41266
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fox-Davies, Arthur Charles
+    alias: Fox-Davies, A. C. (Arthur Charles)
+    birthdate: 1871
+    deathdate: 1928
+    gutenberg_agent_id: '25733'
+    url: http://www.gutenberg.org/2009/agents/25733
+description: A study of the establishment and use of coats of arms which is divided
+  into chapters on heraldric symbols.
+gutenberg_issued: '2012-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41617'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CR'
+- !lcsh 'Heraldry -- Great Britain'
+title: A Complete Guide to Heraldry
+url: http://www.gutenberg.org/ebooks/41617
