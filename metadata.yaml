@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25733
 description: A study of the establishment and use of coats of arms which is divided
   into chapters on heraldric symbols.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41617#A-Complete-Guide-to-Heraldry
 gutenberg_issued: '2012-12-13'
 gutenberg_type: Text
 identifiers:
